@@ -1,3 +1,8 @@
 *-repo
 *.udb
 results/
+test/
+__pycache__/
+comm_smells/
+stat_analysis/
+concated/
